@@ -9,4 +9,4 @@ where the n-th bit is ‘1’ if the n-th element is present in the subset and �
 HINT: store the vector as an integer and extract values using bitwise operations.
 The program should output the vector representing the optimal subset of the input
 set in knapsack.txt (you can read it from the file or paste it in your code).
-For this project, I recommend a compiled language such as C or Java due to performance.
+
